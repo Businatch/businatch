@@ -1,0 +1,7 @@
+Django
+djangorestframework
+python-dotenv
+psycopg2-binary
+django-cors-headers
+stripe
+mailchimp-marketing
